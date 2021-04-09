@@ -1,0 +1,15 @@
+C:\Users\coddo\source\repos\projie\projie\obj\Debug\netcoreapp3.1\projie.csprojAssemblyReference.cache
+C:\Users\coddo\source\repos\projie\projie\obj\Debug\netcoreapp3.1\projie.Form1.resources
+C:\Users\coddo\source\repos\projie\projie\obj\Debug\netcoreapp3.1\projie.csproj.GenerateResource.cache
+C:\Users\coddo\source\repos\projie\projie\obj\Debug\netcoreapp3.1\projie.AssemblyInfoInputs.cache
+C:\Users\coddo\source\repos\projie\projie\obj\Debug\netcoreapp3.1\projie.AssemblyInfo.cs
+C:\Users\coddo\source\repos\projie\projie\obj\Debug\netcoreapp3.1\projie.csproj.CoreCompileInputs.cache
+C:\Users\coddo\source\repos\projie\projie\bin\Debug\netcoreapp3.1\projie.exe
+C:\Users\coddo\source\repos\projie\projie\bin\Debug\netcoreapp3.1\projie.deps.json
+C:\Users\coddo\source\repos\projie\projie\bin\Debug\netcoreapp3.1\projie.runtimeconfig.json
+C:\Users\coddo\source\repos\projie\projie\bin\Debug\netcoreapp3.1\projie.runtimeconfig.dev.json
+C:\Users\coddo\source\repos\projie\projie\bin\Debug\netcoreapp3.1\projie.dll
+C:\Users\coddo\source\repos\projie\projie\bin\Debug\netcoreapp3.1\projie.pdb
+C:\Users\coddo\source\repos\projie\projie\obj\Debug\netcoreapp3.1\projie.dll
+C:\Users\coddo\source\repos\projie\projie\obj\Debug\netcoreapp3.1\projie.pdb
+C:\Users\coddo\source\repos\projie\projie\obj\Debug\netcoreapp3.1\projie.genruntimeconfig.cache
